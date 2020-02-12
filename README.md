@@ -72,7 +72,7 @@ test_CUB.py
 }
 ```
 Youngmin Ro, Jin Young Choi, 
-"Layer-wise Pruning and Auto-tuning of Layer-wise Learning Rates in Fine-tuning of Deep Networks", CoRR, 2019. (AAAI at 2019 Feb.)
+"Layer-wise Pruning and Auto-tuning of Layer-wise Learning Rates in Fine-tuning of Deep Networks", CoRR, 2020.
 
 
 
