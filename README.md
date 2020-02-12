@@ -4,7 +4,7 @@ Official Pytorch implementation of paper:
 
 [Layer-wise Pruning and Auto-tuning of Layer-wise Learning Rates in Fine-tuning of Deep Networks](https://arxiv.org/abs/1901.06140)(AAAI 2019).
 
-# [Project page](https://sites.google.com/view/youngmin-ro-vision/home/rollback?authuser=0)
+[Project page](https://sites.google.com/view/youngmin-ro-vision/home/rollback?authuser=0)
 
 
 
