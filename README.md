@@ -23,7 +23,7 @@ Default setting:
 ### prepare
 The dataset path should be changed to your own path.
 
-CUB2011-200 dataset are available on http://www.liangzheng.org/Project/project_reid.html
+CUB2011-200 dataset are available on https://drive.google.com/file/d/1hbzc_P1FuxMkcabkgn9ZKinBwW683j45/view
 
 Inshop retrieval dataset are available on TBA
 
