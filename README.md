@@ -35,7 +35,7 @@ prepare_cub.py
 
 Train model in period 1. This is a baseline of our algorithm. 
 
-The dataset path(data_dir='/home/ro/FG/CUB_RT/pytorch') should be changed to your own path.
+The dataset path(data_dir='/home/ro/FG/CUB_200_2011/pytorch') should be changed to your own path.
 
 
 ```
