@@ -36,7 +36,7 @@ for str_id in str_ids:
     if gid >= 0:
         gpu_ids.append(gid)
 
-data_dir = '/home/ro/FG/CUB_RT/pytorch'
+data_dir = '/home/ro/FG/CUB_200_2011/pytorch'
 
 print(data_dir)
 
