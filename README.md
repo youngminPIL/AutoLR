@@ -28,7 +28,7 @@ CUB2011-200 dataset are available on https://drive.google.com/file/d/1hbzc_P1Fux
 Inshop retrieval dataset are available on TBA
 
 ```
-prepareCUB.py 
+prepare_cub.py 
 ```
 
 ### train network on the each periods. 
