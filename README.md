@@ -1,15 +1,15 @@
-## Layer-wise Pruning and Auto-tuning of Layer-wise Learning Rates in Fine-tuning of Deep Networks
+## AutoLR: Layer-wise Pruning and Auto-tuning of Learning Rates in Fine-tuning of Deep Networks
 
 Official Pytorch implementation of paper:
 
-[Layer-wise Pruning and Auto-tuning of Layer-wise Learning Rates in Fine-tuning of Deep Networks](https://arxiv.org/abs/1901.06140)(Arxiv 2020).
+[Layer-wise Pruning and Auto-tuning of Layer-wise Learning Rates in Fine-tuning of Deep Networks](https://arxiv.org/abs/1901.06140)(AAAI 2021).
 
 [Project page](https://sites.google.com/view/youngmin-ro-vision/home/rollback?authuser=0)
 
 
 
 ## Environment
-Python 3.6, Pytorch 0.4.1, Torchvision, tensorboard(optional)
+Python 3.6, Pytorch 0.4.1, Torchvision, tensorboard
 
 
 ## Train 
