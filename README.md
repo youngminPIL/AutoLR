@@ -2,9 +2,9 @@
 
 Official Pytorch implementation of paper:
 
-[Layer-wise Pruning and Auto-tuning of Layer-wise Learning Rates in Fine-tuning of Deep Networks](https://arxiv.org/abs/1901.06140)(AAAI 2021).
+[AutoLR: Layer-wise Pruning and Auto-tuning of Learning Rates in Fine-tuning of Deep Networks](https://arxiv.org/abs/2002.06048) (AAAI 2021).
 
-[Project page](https://sites.google.com/view/youngmin-ro-vision/home/rollback?authuser=0)
+[Project page](https://sites.google.com/view/youngmin-ro-vision/home/acfn-1?authuser=0)
 
 
 
