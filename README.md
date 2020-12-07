@@ -31,21 +31,19 @@ Cars-196 dataset are available on https://ai.stanford.edu/~jkrause/cars/car_data
 prepare_cub.py 
 ```
 
-### train network on the each periods. 
-
-Train model in period 1. This is a baseline of our algorithm. 
+### train network. 
 
 The dataset path(data_dir='/home/ro/FG/CUB_200_2011/pytorch') should be changed to your own path.
 
 
 ```
-train_CUB.py --dataset CUB-200
+train_CUB.py --dataset CUB-200 --max_f 0.4 --min_f 2
 ```
 
 In the case of Cars-196 retrieval dataset training, 
 
 ```
-train_CUB.py --dataset Cars-196
+train_CUB.py --dataset Cars-196 --max_f 0.4 --min_f 2
 ```
 
 
