@@ -15,7 +15,7 @@ Python 3.6, Pytorch 0.4.1, Torchvision, tensorboard
 ## Train 
 Default setting:
 - Architecture: ResNet-50
-- Dataset: CUB2011 or Inshop retrieval
+- Dataset: CUB2011 or Cars-196 retrieval
 - Batch size: 40
 - Image size: 224X224
 
@@ -25,7 +25,7 @@ The dataset path should be changed to your own path.
 
 CUB2011-200 dataset are available on https://drive.google.com/file/d/1hbzc_P1FuxMkcabkgn9ZKinBwW683j45/view
 
-Inshop retrieval dataset are available on TBA
+Cars-196 dataset are available on https://ai.stanford.edu/~jkrause/cars/car_dataset.html
 
 ```
 prepare_cub.py 
@@ -39,24 +39,16 @@ The dataset path(data_dir='/home/ro/FG/CUB_200_2011/pytorch') should be changed 
 
 
 ```
-train_CUB.py
+train_CUB.py --dataset CUB-200
 ```
 
-In the case of Inshop retrieval dataset training, 
+In the case of Cars-196 retrieval dataset training, 
 
 ```
-train_inshop.py
+train_CUB.py --dataset Cars-196
 ```
 
-## Test
 
-The test will be done when you complete your trainung up to period 4. 
-
-The dataset path(test_dir='/home/ro/Reid/Market/pytorch') should be changed to your own path.
-
-```
-test_CUB.py
-```
 
 
 
