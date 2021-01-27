@@ -53,16 +53,17 @@ train_CUB.py --dataset Cars-196 --max_f 0.4 --min_f 2
 ## Citation
 
 ```
-@inproceedings{AutoLR_ro,
-	title = {Layer-wise Pruning and Auto-tuning of Layer-wise Learning Rates in Fine-tuning of Deep Networks
-},
-	author = {Youngmin Ro, Jin Young Choi},
-	booktitle = {Arxiv},
-	year = {2019}
+@inproceedings{ro2021autolr,
+      title={AutoLR: Layer-wise Pruning and Auto-tuning of Learning Rates in Fine-tuning of Deep Networks}, 
+      author={Youngmin Ro and Jin Young Choi},
+      year={2021},
+      eprint={2002.06048},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ```
-Youngmin Ro, Jin Young Choi, 
-"Layer-wise Pruning and Auto-tuning of Layer-wise Learning Rates in Fine-tuning of Deep Networks", CoRR, 2020.
+Youngmin Ro and Jin Young Choi, 
+"AutoLR: Layer-wise Pruning and Auto-tuning of Learning Rates in Fine-tuning of Deep Networks", CoRR, 2020.
 
 
 
